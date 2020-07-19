@@ -1,5 +1,6 @@
 package day1;
 
 public class Person {
-    int age;
+    private  int age;
+    private String firstName;
 }
